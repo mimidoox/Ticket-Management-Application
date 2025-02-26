@@ -37,8 +37,10 @@ public class TicketService {
     @Autowired
     private AuditLogRepository auditLogRepository;
     
-    public TicketService(TicketRepository ticketRepository) {
+    public TicketService(TicketRepository ticketRepository, CommentRepository commentRepository,AuditLogRepository auditLogRepository) {
         this.ticketRepository = ticketRepository;
+        this.commentRepository = commentRepository;
+        this.auditLogRepository = auditLogRepository;
     }
 
     public Ticket createTicket(Ticket ticket) {

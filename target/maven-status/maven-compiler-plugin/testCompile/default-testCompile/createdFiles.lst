@@ -1,1 +1,11 @@
 com/example/ticketManager/TicketManagerApplicationTests.class
+com/example/ticketManager/servicesTest/CommentServiceTest.class
+com/example/ticketManager/servicesTest/TicketServiceTest.class
+com/example/ticketManager/controllersTest/CategoryControllerTest.class
+com/example/ticketManager/servicesTest/CategoryServiceTest.class
+com/example/ticketManager/servicesTest/AuditLogServiceTest.class
+com/example/ticketManager/controllersTest/TicketControllerTest.class
+com/example/ticketManager/controllersTest/AuditLogControllerTest.class
+com/example/ticketManager/controllersTest/CommentControllerTest.class
+com/example/ticketManager/servicesTest/UserServiceTest.class
+com/example/ticketManager/controllersTest/AuthControllerTest.class

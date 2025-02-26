@@ -1,1 +1,11 @@
 /Users/macbookmimid/Downloads/ticketManager/src/test/java/com/example/ticketManager/TicketManagerApplicationTests.java
+/Users/macbookmimid/Downloads/ticketManager/src/test/java/com/example/ticketManager/controllersTest/AuditLogControllerTest.java
+/Users/macbookmimid/Downloads/ticketManager/src/test/java/com/example/ticketManager/controllersTest/AuthControllerTest.java
+/Users/macbookmimid/Downloads/ticketManager/src/test/java/com/example/ticketManager/controllersTest/CategoryControllerTest.java
+/Users/macbookmimid/Downloads/ticketManager/src/test/java/com/example/ticketManager/controllersTest/CommentControllerTest.java
+/Users/macbookmimid/Downloads/ticketManager/src/test/java/com/example/ticketManager/controllersTest/TicketControllerTest.java
+/Users/macbookmimid/Downloads/ticketManager/src/test/java/com/example/ticketManager/servicesTest/AuditLogServiceTest.java
+/Users/macbookmimid/Downloads/ticketManager/src/test/java/com/example/ticketManager/servicesTest/CategoryServiceTest.java
+/Users/macbookmimid/Downloads/ticketManager/src/test/java/com/example/ticketManager/servicesTest/CommentServiceTest.java
+/Users/macbookmimid/Downloads/ticketManager/src/test/java/com/example/ticketManager/servicesTest/TicketServiceTest.java
+/Users/macbookmimid/Downloads/ticketManager/src/test/java/com/example/ticketManager/servicesTest/UserServiceTest.java
